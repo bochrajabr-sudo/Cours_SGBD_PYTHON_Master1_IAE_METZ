@@ -147,3 +147,11 @@ numpy
 matplotlib
 scipy
 ```
+
+
+
+---
+
+## Contributor
+
+- [Bochra Jabr](https://www.linkedin.com/in/bochra-jabr-a9a884245/)
